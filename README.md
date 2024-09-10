@@ -5,7 +5,6 @@ This repository contains a Netflix UI clone built using Flutter. The project rep
 **Design changes:**
 | Image |
 | :------: | 
-
 |![image](https://github.com/user-attachments/assets/d2c65897-deef-4211-8bee-33c998c1209e)|
 
 | Video |
