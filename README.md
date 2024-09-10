@@ -2,7 +2,7 @@
 
 This repository contains a Netflix UI clone built using Flutter. The project replicates the front-end interface of Netflix.
 
-**Design changes:**
+**Design:**
 | Image |
 | :------: | 
 |![image](https://github.com/user-attachments/assets/d2c65897-deef-4211-8bee-33c998c1209e)|
@@ -40,8 +40,8 @@ This repository contains a Netflix UI clone built using Flutter. The project rep
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-`Copyright (c) 2020 Alba Torres Rodriguez
-
+```
+Copyright (c) 2020 Alba Torres Rodriguez
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -58,7 +58,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.`
+SOFTWARE.
+```
 
 
 
